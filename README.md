@@ -1,5 +1,5 @@
 # RRBT_ANAP_COURSE
-Autonomous navigation and perception course final project - implementation of the RRBT algorithm. 
+Autonomous navigation and perception course final project - implementation of the RRBT algorithm. Eli Goldenshluger & Nitzan Makmal
 Implemented a version of RRBT algorithm by essentially expanding over an RRT* algorithm, also suggested a minor modification to terminate the algorithm run when there is no chance to find a valid path.
 Based on the paper: Rapidly-exploring Random Belief Trees for Motion Planning Under Uncertainty by Adam Bry and Nicholas Roy
 
