@@ -1,7 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% CHANCECONSTRAINT IS BUGED, IT GOES OVER OBSTICALS - basicilly when
-% polyxpoly obsticale with cov ellipse - dont connect ->not working well
-% must be fixed! probably i check the wrong nodes
+% RRBT MAIN SCRIPT
+% polyxpoly obsticale with cov ellipse 
 % ADDED FLAG TO DRAWCOVELLIPSE
 % noCollision replaced with chanceconstraint (meanwhile without delta)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
